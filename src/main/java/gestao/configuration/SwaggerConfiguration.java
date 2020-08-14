@@ -1,4 +1,4 @@
-package src.main.java.gestao.configuration;
+package gestao.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
